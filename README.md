@@ -1,6 +1,6 @@
 👋 Hi, I'm Harish
 
-🎮 Game Developer | 💻 Software Developer | 🚀 Tech Enthusiast
+🎮 Game Designer And Game Developer | 💻 Software Developer |
 
 I build interactive experiences, gameplay systems, and software projects across multiple technologies. Passionate about turning ideas into real, playable, and usable products while continuously learning and improving.
 
